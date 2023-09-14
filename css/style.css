@@ -69,9 +69,7 @@ letter-spacing: 0.02em;
 .adress-menu-item {
 
 }
-.main {
-    background-color: #2E2F42;
-}
+
 .main-text {
     color:#FFF;
 font-family: Roboto;
@@ -93,11 +91,30 @@ border-radius: 4px;
 background: #4D5AE5;
 
 }
-.Title-section {
+
+/*---------MAIN------------*/
+
+
+
+.main {
+        background-color: #2E2F42;
 }
-.servicses {
+.main-text {
+    color: #FFF;
+font-family: "Roboto";
+font-size: 56px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.17; 
+letter-spacing: 0.02em;
 }
-.activity {
-}
-.servises {
+.button {
+    color:#FFF;
+    font-family: "Roboto";
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; 
+letter-spacing: 0.64px;
+    background-color:#4D5AE5;
 }
