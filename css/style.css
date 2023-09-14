@@ -6,7 +6,7 @@ body{
 }
 
 .header-navigation {
- 
+
 }
 .header-logo {
 color:#4D5AE5;
@@ -36,7 +36,7 @@ text-transform: uppercase;
     font-weight: 500;
     line-height:1.5;
     letter-spacing:0.02em;
-   }
+}
 .header-menu-item {
 color:#2E2F42;
 font-family: "Roboto";
