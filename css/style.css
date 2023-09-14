@@ -8,18 +8,18 @@ body{
 .header-navigation {
 }
 .header-logo {
-color:#4d5ae5 ;
-font-family: "Raleway",sans-serif;
+color:#2e2f42;
+font-family: Raleway;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
-line-height:1.17;
+line-height: 21px;
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
 .header-span {
-color:#2e2f42;
-font-family: "Raleway";
+color:#4D5AE5;
+font-family: Raleway;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
@@ -29,7 +29,7 @@ text-transform: uppercase;
 }
 .nav-list-span {
 }
-.header {
+.header-menu {
     color:#2e2f42;
     font-size: 16px;
     font-weight: 500;
@@ -37,18 +37,26 @@ text-transform: uppercase;
     letter-spacing: -0.02em;
     list-style: none;
 }
-.header-item {
-color:#2e2f42;
-font-family: "Roboto";
+.header-menu-item {
+color:#2E2F42;
+font-family: Roboto;
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
-line-height: 1.5;
-letter-spacing:0.02em;
+line-height: 24px;
+letter-spacing: -0.32px;
+}
+
+
+.header-menu-link:focus{
+color: #404bbf;
+}
+.header-menu-link:hover{
+    color: #404bbf;
 }
 .address {
 color:#434455;
-font-family: "Roboto";
+font-family: Roboto;
 font-size: 16px;
 font-style:normal;
 font-weight:400;
@@ -70,7 +78,7 @@ letter-spacing: -0.02em;
 }
 .main-text {
     color:#FFF;
-font-family: "Roboto";
+font-family: Roboto;
 font-size: 56px;
 font-style: normal;
 font-weight: 700;
@@ -79,7 +87,7 @@ letter-spacing: 1.12px;
 }
 .button {
     color:#FFF;
-font-family: "Roboto";
+font-family: Roboto;
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
