@@ -88,10 +88,15 @@ font-weight: 500;
 line-height: 24px;
 letter-spacing: 0.64px;
 border-radius: 4px;
-background: #4D5AE5;
-
+background-color: #4D5AE5;
+cursor: pointer;
 }
-
+.button:focus{
+background-color: #404BBF;
+}
+.button:hover{
+background-color: #404BBF;
+}
 /*---------MAIN------------*/
 
 
@@ -101,11 +106,12 @@ background: #4D5AE5;
 }
 .main-text {
     color: #FFF;
-font-family: "Roboto";
+font-family: "Roboto",sans-serif;
 font-size: 56px;
 font-style: normal;
 font-weight: 700;
-line-height: 1.17; 
+line-height: 1.07; 
+text-align: center;
 letter-spacing: 0.02em;
 }
 .button {
