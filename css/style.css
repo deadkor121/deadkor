@@ -70,15 +70,7 @@ letter-spacing: 0.02em;
 
 }
 
-.main-text {
-    color:#FFF;
-font-family: Roboto;
-font-size: 56px;
-font-style: normal;
-font-weight: 700;
-line-height:24px; 
-letter-spacing: 1.12px;
-}
+
 .button {
     color:#FFF;
 font-family: Roboto;
@@ -91,10 +83,10 @@ border-radius: 4px;
 background-color: #4D5AE5;
 cursor: pointer;
 }
-.button:focus{
+.button.link:focus{
 background-color: #404BBF;
 }
-.button:hover{
+.button.link:hover{
 background-color: #404BBF;
 }
 /*---------MAIN------------*/
