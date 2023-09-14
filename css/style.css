@@ -55,23 +55,19 @@ color: #404bbf;
     color: #404bbf;
 }
 .address {
-color:#434455;
-font-family: Roboto;
+ color:#434455;
+font-family: "Roboto";
 font-size: 16px;
 font-style:normal;
 font-weight:400;
 line-height:1.5;
-letter-spacing: -0.02em;
+letter-spacing: 0.02em;
+
 }
 .adress-menu {
 }
 .adress-menu-item {
-    color:#434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: -0.02em;
-    list-style: none;
+
 }
 .main {
     background-color: #2E2F42;
