@@ -29,7 +29,7 @@ text-transform: uppercase;
 }
 .nav-list-span {
 }
-.header-menu {
+.header {
     color:#2e2f42;
     font-size: 16px;
     font-weight: 500;
@@ -43,7 +43,7 @@ font-family: "Roboto";
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing:0.02em;
 }
 .address {
