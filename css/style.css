@@ -73,7 +73,7 @@ letter-spacing: 0.02em;
 
 .button {
     color:#FFF;
-font-family: Roboto;
+font-family:inherit;
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
