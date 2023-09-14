@@ -9,7 +9,7 @@ body{
 }
 .header-logo {
 color:#2e2f42;
-font-family: Raleway;
+font-family: "Raleway";
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
@@ -19,7 +19,7 @@ text-transform: uppercase;
 }
 .header-span {
 color:#4D5AE5;
-font-family: Raleway;
+font-family: "Raleway";
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
@@ -33,17 +33,17 @@ text-transform: uppercase;
     color:#2e2f42;
     font-size: 16px;
     font-weight: 500;
-    line-height: 1.5;
+    line-height:1.17;
     letter-spacing: -0.02em;
     list-style: none;
 }
 .header-menu-item {
 color:#2E2F42;
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
-line-height: 24px;
+line-height: 1.15;
 letter-spacing: -0.32px;
 }
 
