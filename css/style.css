@@ -29,14 +29,13 @@ text-transform: uppercase;
 }
 .nav-list-span {
 }
-.header-menu {
+.header-menu-link {
     color:#2e2f42;
     font-size: 16px;
     font-weight: 500;
-    line-height:1.17;
-    letter-spacing: -0.02em;
-    list-style: none;
-}
+    line-height:1.5;
+    letter-spacing:0.02em;
+   }
 .header-menu-item {
 color:#2E2F42;
 font-family: "Roboto";
