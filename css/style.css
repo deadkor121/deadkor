@@ -8,12 +8,12 @@ body{
 .header-navigation {
 }
 .header-logo {
-color:#2e2f42;
+color:#4d5ae5 ;
 font-family: "Raleway";
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
-line-height: 21px;
+line-height:1.17;
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
