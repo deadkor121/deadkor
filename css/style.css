@@ -9,7 +9,7 @@ body{
 }
 .header-logo {
 color:#2e2f42;
-font-family: Raleway;
+font-family: "Raleway";
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
@@ -19,7 +19,7 @@ text-transform: uppercase;
 }
 .header-span {
 color:#4D5AE5;
-font-family: Raleway;
+font-family: "Raleway";
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
@@ -39,7 +39,7 @@ text-transform: uppercase;
 }
 .header-menu-item {
 color:#2E2F42;
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
@@ -48,7 +48,7 @@ letter-spacing: -0.32px;
 }
 .address {
 color:#434455;
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 16px;
 font-style:normal;
 font-weight:400;
@@ -70,7 +70,7 @@ letter-spacing: -0.02em;
 }
 .main-text {
     color:#FFF;
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 56px;
 font-style: normal;
 font-weight: 700;
@@ -79,7 +79,7 @@ letter-spacing: 1.12px;
 }
 .button {
     color:#FFF;
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
