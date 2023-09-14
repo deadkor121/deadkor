@@ -1,4 +1,4 @@
-.body{
+body{
     font-family:'Roboto',sans-serif;
     color:#434455;
     background-color: #ffffff;
@@ -51,10 +51,6 @@ rgba(67, 68, 85, 1);
 .section-solutions{
     background-color: #2e2f42;
 }
-
-
-
-
 .section-team{
     background-color: #f4f4fd;
 }
