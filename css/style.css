@@ -94,10 +94,10 @@ background-color: #404BBF;
 
 
 .main {
-        background-color: #2E2F42;
+background-color: #2E2F42;
 }
 .main-text {
-    color: #FFF;
+color: #FFF;
 font-family: "Roboto",sans-serif;
 font-size: 56px;
 font-style: normal;
@@ -106,6 +106,7 @@ line-height: 1.07;
 text-align: center;
 letter-spacing: 0.02em;
 }
+
 .button link {
     color:#FFF;
     font-family: "Roboto";
