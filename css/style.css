@@ -109,7 +109,7 @@ letter-spacing: 0.02em;
 
 .button link {
     color:#FFF;
-    font-family: "Roboto";
+    font-family: "Roboto",sans-serif;
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
@@ -146,6 +146,17 @@ line-height: 40px;
 letter-spacing: 0.72px;
 text-transform: capitalize;
 }
+.team-title{
+    color:#2E2F42;
+font-family: "Roboto";
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height:1.2;
+letter-spacing:0.02em;
+}
+
+
 .Title-section {
 }
 .servises {
