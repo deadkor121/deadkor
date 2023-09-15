@@ -44,7 +44,7 @@ text-transform: uppercase;
     letter-spacing:0.02em;
 }
 .header-menu-item {
-color:#2E2F42;
+color:#2e2f42;
 font-family: "Roboto";
 font-size: 16px;
 font-style: normal;
@@ -60,6 +60,10 @@ color: #404bbf;
 .header-menu-link:hover{
     color: #404bbf;
 }
+.address-link {
+    color:#434455;
+    letter-spacing: 0.02em
+}
 .address {
 color:#434455;
 font-family: "Roboto";
@@ -67,11 +71,17 @@ font-size: 16px;
 font-style:normal;
 font-weight:400;
 line-height:1.5;
+letter-spacing: 0.02em;
+}
 
+.address-link:focus{
+background-color: #404bbf;
 }
-.adress-menu {
+.address-link:focus{
+background-color: #404BBF;
 }
-.adress-menu-item {
+
+.address-menu-item {
 
 }
 
@@ -87,12 +97,7 @@ letter-spacing:0.04em;
 background-color: #4D5AE5;
 cursor: pointer;
 }
-.button.link:focus{
-background-color: #404BBF;
-}
-.button.link:hover{
-background-color: #404BBF;
-}
+
 /*---------MAIN------------*/
 
 
@@ -121,6 +126,8 @@ line-height: 24px;
 letter-spacing: 0.64px;
     background-color:#4D5AE5;
 }
+
+
 .title {
     color:#2E2F42;
 font-family: "Roboto";
