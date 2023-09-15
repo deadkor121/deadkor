@@ -156,8 +156,17 @@ line-height:1.2;
 letter-spacing:0.02em;
 }
 
+.team-text{
+color: #434455;
+font-family: "Roboto";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height:1.5; 
+letter-spacing:0.02em;
+}
 
-.Title-section {
+.title-section {
 }
 .servises {
 }
