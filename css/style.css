@@ -84,12 +84,13 @@ letter-spacing:0.04em;
 background-color: #4D5AE5;
 cursor: pointer;
 }
-.button.link:focus{
+.button-link:focus,.button-link:hover{
 background-color: #404BBF;
 }
-.button.link:hover{
-background-color: #404BBF;
-}
+
+
+
+
 /*---------MAIN------------*/
 
 
