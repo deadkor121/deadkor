@@ -37,11 +37,13 @@ color:#2e2f42;
     letter-spacing:0.02em;
 }
 
-.header-link:focus,:hover{
+.header-link:focus,.header-link:hover{
 color: #404bbf;
 }
 
-
+.header-address{
+font-style: normal;
+}
 
 .header-address-list {
 color:#434455;
@@ -50,10 +52,13 @@ font-style:normal;
 font-weight:400;
 line-height:24px;
 
+
 }
 
-.adress-menu {
+.header-address-link{
+
 }
+
 .adress-menu-item {
 color:#434455;
 letter-spacing: 0.02em
@@ -61,7 +66,7 @@ letter-spacing: 0.02em
 
 }
 
-.header-address-list:focus,.header-address-list:hover{
+.header-address-link:focus,.header-address-link:hover{
 color: #404bbf;
 }
 
@@ -194,7 +199,7 @@ letter-spacing: 0.32px;
 .footer-back{
 background-color: #2e2f42;
 }
-.footer-link{
+.footer-logo{
 color:#4d5ae5;
 font-family: "Raleway",sans-serif;
 font-size: 18px;
