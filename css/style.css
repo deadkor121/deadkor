@@ -166,6 +166,10 @@ line-height:1.2;
 letter-spacing:0.02em;
 }
 
+.team-list{
+    background-color: #ffffff;
+}
+
 .team-text{
 color: #434455;
 font-family: "Roboto";
