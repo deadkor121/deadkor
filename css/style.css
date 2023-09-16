@@ -36,7 +36,7 @@ text-transform: uppercase;
 }
 .nav-list-span {
 }
-.header-menu-link {
+.nav-list {
     color:#2e2f42;
     font-size: 16px;
     font-weight: 500;
@@ -65,20 +65,24 @@ color: #404bbf;
     letter-spacing: 0.02em
 }
 .address {
-color:#434455;
-font-family: "Roboto";
-font-size: 16px;
 font-style:normal;
-font-weight:400;
+}
+
+.address-link{
+    color:#434455;
+font-size: 16px;
 line-height:1.5;
 letter-spacing: 0.02em;
 }
-
-.address-link:focus{
+.address-list:focus{
 background-color: #404bbf;
 }
-.address-link:focus{
+.address-list:hover{
 background-color: #404BBF;
+}
+
+.address-list:active{
+    background-color:#404BBF;
 }
 
 .address-menu-item {
