@@ -66,14 +66,11 @@ color: #404bbf;
 }
 .address {
 font-style:normal;
-}
-
-.address-link{
-    color:#434455;
 font-size: 16px;
 line-height:1.5;
 letter-spacing: 0.02em;
 }
+
 .address-list:focus{
 background-color: #404bbf;
 }
