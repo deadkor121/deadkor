@@ -44,13 +44,12 @@ color: #404bbf;
 
 
 
-.address {
+.header-address-list {
 color:#434455;
-font-family: "Roboto";
 font-size: 16px;
 font-style:normal;
 font-weight:400;
-line-height:1.5;
+line-height:0.02em;
 
 }
 
@@ -63,7 +62,7 @@ letter-spacing: 0.02em
 
 }
 
-.address-menu-item:focus,:hover{
+.address-address-list:focus,:hover{
 color: #404bbf;
 }
 
