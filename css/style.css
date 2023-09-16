@@ -131,6 +131,12 @@ letter-spacing: 0.64px;
     background-color:#4D5AE5;
 }
 
+.button-link:focus{
+color: #404bbf;
+}
+.button-link:hover{
+    color: #404bbf;
+}
 
 .title {
     color:#2E2F42;
