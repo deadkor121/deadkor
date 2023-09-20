@@ -35,9 +35,12 @@ display: flex;
 
 
 .header-navigation {
+    line-height: 1.15;
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    box-sizing: border-box;
     display: flex;
     align-items: center;
-
 }
 .name {
 color:#4D5AE5;
