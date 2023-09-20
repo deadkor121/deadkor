@@ -7,6 +7,7 @@ body{
     font-style: normal;
 }
 img{display:block;}
+h1,h2,h3,p{margin: 0;}
 
 ul{
     margin: 0;
@@ -20,7 +21,7 @@ ul{
 }
 
 .header{
-  display: flex;
+display: flex;
 }
 .container{
     width: 1158px; 
@@ -145,7 +146,7 @@ font-family: "Roboto",sans-serif;
 font-size: 56px;
 font-style: normal;
 font-weight: 700;
-line-height:107.147%; 
+line-height:107.143%; 
 text-align: center;
 letter-spacing:1.12px;
 max-width: 496px;
@@ -172,13 +173,31 @@ margin: 0 auto;
 
 }
 
+.text-main{
+    padding: 120px 0 120px;
+}
+
+.visually-hidden {
+position: absolute;
+width: 1px;
+height: 1px;
+margin: -1px;
+border: 0;
+padding: 0;
+white-space: nowrap;
+clip-path: inset(100%);
+clip: rect(0 0 0 0);
+overflow: hidden;
+}
+
 .skills{
     display: flex;
     gap:24px;
 }
 
 .team{
-background-color: #F4F4FD
+background-color: #F4F4FD;
+padding:120px 0;
 }
 
 .one{
