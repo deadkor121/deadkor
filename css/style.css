@@ -249,6 +249,12 @@ letter-spacing:0.02em;
 }
 
 .team-list{
+ display: inline-flex;
+padding-bottom: 0px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 32px;
     background-color: #ffffff;
     flex-basis: calc((100% - 3 * 24px) / 4);
     border-radius: 0px 0px 4px 4px;
@@ -275,7 +281,7 @@ letter-spacing:0.02em;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
- 
+
 }
 
 .image{
