@@ -273,9 +273,12 @@ letter-spacing:0.02em;
 .text-border{
     display: flex;
 width: 232px;
+text-align: center;
 flex-direction: column;
 justify-content: center;
 align-items: center;
+padding: 32px 0 32px;
+margin-bottom: 8px;
 gap: 8px;
 }
 
