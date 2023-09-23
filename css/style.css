@@ -74,6 +74,7 @@ color:#2e2f42;
     letter-spacing:0.02em;
     padding-top: 24px;
     padding-bottom: 24px;
+    font-weight: 500;
 }
 
 .header-link:focus,.header-link:hover{
