@@ -62,7 +62,7 @@ color:#2e2f42;
     gap:40px;
 }
 .header-item{
-    padding:24px 0;
+display: inline-block;
 
 }
 
