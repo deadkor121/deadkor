@@ -31,6 +31,7 @@ display: flex;
 
 .additional-default{
     display: flex;
+    align-items: center;
 }
 
 
