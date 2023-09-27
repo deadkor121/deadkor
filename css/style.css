@@ -242,8 +242,7 @@ overflow: hidden;
     border-radius: 4px;
 width: 264px;
 height: 112px;
-flex-shrink: 0;
-flex-shrink: 0;
+
 border: 1px solid var(--LIGHT-SLATE, #8E8F99);
 background: var(--CLOUD, #F4F4FD);
 
