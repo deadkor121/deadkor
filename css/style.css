@@ -78,25 +78,19 @@ display: inline-block;
     font-weight: 500;
 }
 
+
 .hover{
      background: var(--ocean, #404bbf);
   border-radius: 2px;
   width: 48px;
   height: 4px;
+  content: '';
   position: absolute;
-
-  top: 63px;
-}
-
-.hover::before {
-  background: var(--ocean, #404bbf);
-  border-radius: 2px;
-  width: 48px;
-  height: 4px;
-
-  left: 0px;
+  display: block;
   top: 44px;
 }
+
+
 
 
 .hover::after {
@@ -104,15 +98,12 @@ display: inline-block;
   border-radius: 2px;
   width: 48px;
   height: 4px;
-  
+
   left: 0px;
   top: 44px;
 }
 
 
-.header-link:focus,.header-link:hover{
-color: #404bbf;
-}
 .header{
     background-color: #fff;
     border-bottom: 1px solid #e7e9fc;
