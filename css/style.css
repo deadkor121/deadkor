@@ -237,17 +237,9 @@ width: calc((100% - 72px) / 4);
 }
 
 
-.feature-icon-box::after{
-content: '';
-width: 64px;
-height: 64px;
-background-image: url(../images/antenna.svg);
-background-size: cover;
-background-position: center;
-}
 
 .feature-icon-box{
-  position: relative;
+
   display: flex;
   align-items: center;
   justify-content: center;
@@ -255,7 +247,21 @@ background-position: center;
   margin-bottom: 8px;
   border-radius: 4px;
   border: 1px solid #8e8f99;
-  background: #f4f4fd;
+  background-color: #f4f4fd;
+}
+
+.icon-antenna{
+background-image: url(../images/antenna.svg);
+}
+.icon-clock{
+    background-image: url(../images/clock.svg);
+}
+.icon-diagram{
+    background-image: url(../images/diagram.svg);
+}
+
+.icon-astrounaut{
+    background-image: url(../images/astronaut.svg);
 }
 
 .title {
@@ -323,6 +329,56 @@ line-height:1.5;
 letter-spacing:0.02em;
 text-align: center;
 }
+
+.socials-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+
+.socials-item {
+  width: 40px;
+  height: 40px;
+}
+
+.icon-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #4d5ae5;
+  border-radius: 50%;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.icon-link:hover,
+.icon-link:focus {
+  background-color: #404bbf;
+}
+
+.socials-icon-1 {
+    background-image:url(../images/instagram.svg);
+
+}
+
+.socials-icon-2 {
+    background-image:url(../images/twitter.svg);
+ 
+}
+
+.socials-icon-3 {
+    background-image:url(../images/facebook.svg);
+
+}
+
+.socials-icon-4 {
+    background-image:url(../images/linkedin.svg);
+
+}
+
 
 .text-border{
 padding: 32px 0;
