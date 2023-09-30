@@ -167,6 +167,7 @@ background-color: #404BBF;
 background-color: #2E2F42;
 padding-top: 188px;
 padding-bottom: 188px;
+ max-width: 1440px; 
 background-image:linear-gradient( rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7))
 ,url(../images/main-bg.jpg);
 background-repeat: no-repeat;
@@ -175,7 +176,7 @@ background-size: cover;
 }
 
 .container-bg{
- max-width: 1440px; 
+
 }
 .main-text {
 color: #FFF;
