@@ -373,34 +373,6 @@ text-align: center;
   background-color: #404bbf;
 }
 
-.socials-icon-instagram {
-    background-image:url(../images/instagram.svg);
- fill: #f4f4fd;
- background-repeat: no-repeat;
-background-position: center center;
-}
-
-.socials-icon-twitter {
-    background-image:url(../images/twitter.svg);
-  fill: #f4f4fd;
-  background-repeat: no-repeat;
-background-position: center center;
-}
-
-.socials-icon-facebook {
-    background-image:url(../images/facebook.svg);
- fill: #f4f4fd;
- background-repeat: no-repeat;
-background-position: center center;
-}
-
-.socials-icon-linkedin {
-    background-image:url(../images/linkedin.svg);
- fill: #f4f4fd;
- background-repeat: no-repeat;
-background-position: center center;
-}
-
 
 .text-border{
 padding: 32px 0;
