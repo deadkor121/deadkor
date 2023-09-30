@@ -375,22 +375,22 @@ text-align: center;
 
 .socials-icon-instagram {
     background-image:url(../images/instagram.svg);
-
+ fill: #f4f4fd;
 }
 
 .socials-icon-twitter {
     background-image:url(../images/twitter.svg);
- 
+  fill: #f4f4fd;
 }
 
 .socials-icon-facebook {
     background-image:url(../images/facebook.svg);
-
+ fill: #f4f4fd;
 }
 
 .socials-icon-linkedin {
     background-image:url(../images/linkedin.svg);
-
+ fill: #f4f4fd;
 }
 
 
