@@ -364,27 +364,31 @@ text-align: center;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.socials-link{
+    fill: #f4f4fd;
+}
+
 .icon-link:hover,
 .icon-link:focus {
   background-color: #404bbf;
 }
 
-.socials-icon-1 {
+.socials-icon-instagram {
     background-image:url(../images/instagram.svg);
 
 }
 
-.socials-icon-2 {
+.socials-icon-twitter {
     background-image:url(../images/twitter.svg);
  
 }
 
-.socials-icon-3 {
+.socials-icon-facebook {
     background-image:url(../images/facebook.svg);
 
 }
 
-.socials-icon-4 {
+.socials-icon-linkedin {
     background-image:url(../images/linkedin.svg);
 
 }
