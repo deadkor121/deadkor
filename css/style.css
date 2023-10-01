@@ -99,7 +99,6 @@ display: inline-block;
   content: '';
   position: absolute;
 display: block;
- 
   bottom: -1px;
 }
 
@@ -118,7 +117,7 @@ margin-left:auto;
 .header-address-list {
 display: flex;
 gap:40px;
-padding:24px 0;
+padding:0px;
 
 }
 
@@ -167,7 +166,7 @@ background-color: #404BBF;
 background-color: #2E2F42;
 padding-top: 188px;
 padding-bottom: 188px;
- max-width: 1440px; 
+
 background-image:linear-gradient( rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7))
 ,url(../images/main-bg.jpg);
 background-repeat: no-repeat;
@@ -257,18 +256,8 @@ width: calc((100% - 72px) / 4);
   background-color: #f4f4fd;
 }
 
-.icon-antenna{
-background-image: url(../images/antenna.svg);
-}
-.icon-clock{
-    background-image: url(../images/clock.svg);
-}
-.icon-diagram{
-    background-image: url(../images/diagram.svg);
-}
+.icon-astronaut{
 
-.icon-astrounaut{
-    background-image: url(../images/astronaut.svg);
 }
 
 .title {
@@ -338,6 +327,7 @@ font-weight: 400;
 line-height:1.5; 
 letter-spacing:0.02em;
 text-align: center;
+padding-bottom: 8px;
 }
 
 .socials-list {
@@ -381,6 +371,10 @@ padding-bottom: 32px;
 
 /*---portfolio--------*/
 
+
+.section-portfolio{
+  padding-bottom: 120px;
+}
 
 .portfolio-title {
   margin-bottom: 72px;
