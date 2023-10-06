@@ -612,8 +612,16 @@ padding-bottom: 32px;
   }
 
 .modal-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e7e9fc;
   background-color: transparent;
   border: none;
+   cursor: pointer; 
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
+     border 250ms cubic-bezier(0.4, 0, 0.2, 1); 
+  border: 1px solid rgba(0,0,0,0.1);
   position: absolute;
   top: 24px;
   right: 24px;
